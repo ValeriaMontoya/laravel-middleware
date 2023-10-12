@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in as Administrator!') }}
+                    {{ __('¡Iniciaste sesión como administrador!') }}
                 </div>
             </div>
         </div>
